@@ -2,7 +2,6 @@
 #vim: fileencoding=utf-8
 
 from __future__ import print_function, division, unicode_literals
-# from future_builtins import ascii, filter, hex, map, oct, zip
 from os.path import dirname, abspath, isdir
 import unittest
 import sys

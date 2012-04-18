@@ -5,7 +5,7 @@ unittest runner with pep8
 About
 -----
 
-This script is Python unittest runner. Check the pep8 at the same time.
+This script is Python unittest runner. Check the pep8 coding style at the same time.
 
 
 Basic Usage
@@ -13,7 +13,7 @@ Basic Usage
 
 Make testsuite directory and put test cases in it.
 
-Then run `python runtests.py [option]`.
+Then run `python runtests.py [options]`.
 
 
 Options
